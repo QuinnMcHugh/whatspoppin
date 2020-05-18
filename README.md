@@ -1,5 +1,5 @@
 # whatspoppin
-Sometimes you are curious about the best weeknight bars in your city. Sometimes you also want detailed bar charts populated with Google API data to satisfy your curiosity. This is the command line utility for these times. 
+Sometimes you are curious about what bars are poppin in your city. Sometimes you also want detailed bar charts populated with Google API data to satisfy your curiosity. This is the command line utility for these times. 
 
 ![Map of all Seattle bars](assets/seattle_bars_map.png)
 ![Bar charts of most popular Tuesday bars in Seattle](assets/tuesday_in_seattle.png)
